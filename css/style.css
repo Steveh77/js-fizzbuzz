@@ -10,15 +10,33 @@
 .cells{
     width: 100px;
     height: 100px;
-    background-color: blue;
 }
 .w200px{
     width: 200px;
 }
+
 /* bg-colors */
 .bg-container{
     background-color: rgb(8,59,76)
 }
 .white{
     color: white;
+}
+
+/* cubi */
+.border{
+    border: 1px solid black;
+}
+.blu{
+    background-color: blue;
+}
+.verde{
+    background-color: green;
+}
+.giallo{
+    background-color: yellow;
+
+}
+.rosso{
+    background-color: red;
 }
